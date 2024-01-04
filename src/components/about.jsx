@@ -18,7 +18,7 @@ function ComponentsAbout() {
       <section id="home" className="lg:mt-16 lg:-ml-8 lg:max-w-full">
         <div className="flex flex-wrap">
           <div className="w-full px-4 self-end lg:w-1/2" data-aos="fade-left">
-            <div className="relative mt-10 lg:mt-0 lg:right-0">
+            <div className="relative mt-10 lg:mt-0 -ml-7 lg:right-0">
               <img
                 src="img/foto-keren.png"
                 alt=""

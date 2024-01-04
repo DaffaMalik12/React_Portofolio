@@ -10,7 +10,7 @@ function ComponentSkill() {
   return (
     <Slide direction="right">
       <section className="lg:w-screen w-screen lg:p-5 p-10 lg:mt-10 mt-10 bg-slate-300 overflow-x-hidden">
-        <div className="container lg:ml-20 lg:mt-10 mx-auto">
+        <div className="container lg:ml-20 lg:mt-10 -ml-5">
           <div className="flex flex-wrap">
             <div className="skillset">
               <h1 className="text-2xl font-bold text-cyan-400">{skillset}</h1>
