@@ -21,7 +21,7 @@ function CardSkill() {
       </div>
       <div className=" lg:w-32  shadow-2xl bg-white rounded-md  ">
         <img
-          className=" w-40  lg:w-24 lg:pt-1 pt-4 lg:mx-auto mx-auto rounded-md"
+          className=" w-40  lg:w-24 lg:pt-1 pt-3 lg:mx-auto mx-auto rounded-md"
           src="/img/react.png"
           alt=""
         />
