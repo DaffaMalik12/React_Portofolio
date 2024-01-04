@@ -1,5 +1,5 @@
 'use client';
-import TypedComponents from './typed';
+
 import { Avatar, Dropdown, Navbar } from 'flowbite-react';
 
 function ComponentsNavbar() {
@@ -18,7 +18,7 @@ function ComponentsNavbar() {
           }
         >
           <Dropdown.Header>
-            <span className="block text-sm"><TypedComponents/></span>
+            <span className="block text-sm">Muhammad Daffa</span>
             <span className="block truncate text-sm font-medium">dmalikakram@gmail.com</span>
           </Dropdown.Header>
           <Dropdown.Item>Dashboard</Dropdown.Item>

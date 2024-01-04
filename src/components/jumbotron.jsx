@@ -1,7 +1,6 @@
 "use client";
-
+import TypedComponents from "./typed";
 function ComponentsJumbotron() {
-    const nama = "Muhammad Daffa";
     const textSapa = "Halo Semua 👋, Saya"
     const angkatan = "Mahasiswa Angkatan 2022 UIN JAKARTA"
     const jurusan = "Teknik Informatika"
@@ -20,7 +19,7 @@ function ComponentsJumbotron() {
                 className="font-bold text-slate-900
                   text-4xl mt-1 lg:text-5xl"
               >
-                {nama}
+                <TypedComponents/>
               </span>
             </h1>
             <p className="font-medium text-slate-400 mb-10 leading-relaxed mt-5  md:text-lg lg:text-xl">
