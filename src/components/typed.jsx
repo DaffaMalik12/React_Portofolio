@@ -12,7 +12,8 @@ import { useEffect, useRef } from "react";
       startDelay: 300,
       typeSpeed: 100,
       backSpeed: 100,
-      backDelay: 100
+      backDelay: 100,
+      loop: true
     });
 
     // Destropying
